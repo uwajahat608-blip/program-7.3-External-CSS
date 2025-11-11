@@ -7,6 +7,13 @@
 
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+}
 
 </body>
 </html>
